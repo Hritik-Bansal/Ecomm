@@ -1,0 +1,77 @@
+const Data = [
+    {
+      id: "1",
+      title: "Wrogn",
+      category: "T-Shirt",
+      price: "$1",
+      img:"https://img.freepik.com/free-psd/isolated-white-t-shirt-front-view_125540-1194.jpg?size=626&ext=jpg",
+      desc: "Perfect for everyday wear, this pure cotton t-shirt is simple yet stylish. It features a round neck and long short sleeve Pair it up with shorts",
+    },
+    {
+      id: "2",
+      title: "Puma",
+      category: "T-Shirt",
+      price: "$5",
+      img: "https://5.imimg.com/data5/ZM/YM/DM/SELLER-45023883/puma-mens-round-neck-t-shirt.jpg",
+      desc: "A strut down the street or a cardio session at the gym can feel even more special with the PUMA Graphic Men's T-Shirt.",
+    },
+    {
+      id: "3",
+      title: "H&M",
+      category: "T-Shirt",
+      price: "$3",
+      img: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_ecSKrMM0IDbQkOUX4pgeimQeMgscdN2sUGNyoJoBOWav_2rrExSEPPaCTioEMhZbSetLLG-28Ds1fGfwPZBEUQuek7RbIithU1CtFDFBeiDmXfAlwOwwOQ",
+      desc: "Long, round-necked T-shirts in soft cotton jersey with ribbing around the neckline. Straight, relaxed fit with a curved hem.",
+    },
+    {
+      id: "4",
+      title: "Wrogn",
+      category: "Shirts",
+      price: "$6",
+      img: " https://media.istockphoto.com/id/488160041/photo/mens-shirt.jpg?s=612x612&w=0&k=20&c=xVZjKAUJecIpYc_fKRz_EB8HuRmXCOOPOtZ-ST6eFvQ=",
+      desc: " Wrogn Men's Regular Fit Casual Shirt",
+    },
+    {
+      id: "5",
+      title: "Puma",
+      category: "Shirts",
+      price: "$2",
+      img: "https://contents.mediadecathlon.com/p2511365/b56ebd41ddfccff9283ab6dcdbb0b224/p2511365.jpg?format=auto&quality=70&f=650x0",
+      desc: "Puma Men REGULER Stylish Shirt",
+    },
+    {
+      id: "6",
+      title: "H&M",
+      category: "Shirts",
+      price: "$4",
+      img: "https://assets.ajio.com/medias/sys_master/root/20230906/vVWa/64f80929afa4cf41f5b34d62/-473Wx593H-461119105-blue-MODEL.jpg",
+      desc: " Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Patta)",
+    },
+    {
+      id: "7",
+      title: "Calvin Klein",
+      category: "Lower",
+      price: "$3",
+      img: "https://images.jdmagicbox.com/quickquotes/images_main/men-fancy-lower-385845853-psekq.jpeg",
+      desc: " Men Fancy Lower at best price by unique fashion",
+    },
+    {
+      id: "8",
+      title: "Roadster",
+      category: "Lower",
+      price: "$6",
+      img: "https://rukminim2.flixcart.com/image/850/1000/xif0q/shopsy-track-pant/m/p/y/m-men-trackpants-vancher-original-imaga5e5na52ukya.jpeg?q=90",
+      desc: "Men Solid Black, Red Track Pants",
+    },
+    {
+      id: "9",
+      title: "Wrogn",
+      category: "Lower",
+      price: "$7",
+      img: "https://rukminim2.flixcart.com/image/850/1000/ku8pbbk0/track-pant/n/h/8/m-zb2-m-mens-lower-original-imag7egr22pvgngc.jpeg?q=20",
+      desc: " Men Solid Black Track Pants",
+    },
+     
+  ];
+   
+export default Data;
